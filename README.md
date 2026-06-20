@@ -1,86 +1,98 @@
-<h1 align="center">Hi 👋, I'm Sai Abhishek</h1>
-<h3 align="center">B.Tech CSE (Data Science) | DevOps Enthusiast | Java Developer | Big Data Learner</h3>
+<h1 align="center">Sai Abhishek</h1>
+
+<p align="center">
+  Final Year B.Tech CSE (Data Science) Student
+  <br>
+  DevOps Engineer • Java Developer • Cloud Enthusiast
+</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-🎓 Final Year B.Tech CSE (Data Science) Student
+I am a final-year Computer Science student specializing in Data Science with a strong interest in DevOps, Cloud Computing, Backend Development, and Data Engineering.
 
-💻 Interested in DevOps, Cloud Computing, Java Development, Data Engineering, and Big Data Technologies
+I enjoy building scalable applications, automating deployment pipelines, and working with modern cloud technologies. My focus is on developing industry-ready skills through hands-on projects and continuous learning.
 
-☁️ Learning AWS, Docker, Jenkins, Kubernetes, Hadoop, Hive, and HBase
+### Current Focus
 
-🏸 Badminton Player
-
-🌱 Currently improving my skills in:
-- DevOps
-- Cloud Computing
-- System Design
-- Data Engineering
+- DevOps Engineering
+- AWS Cloud Computing
+- Java & Spring Boot Development
+- Docker & Jenkins Automation
+- Big Data Technologies (Hadoop, Hive, HBase)
+- System Design & Backend Architecture
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Languages
+- Java
+- Python
+- SQL
 
-### DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+### DevOps & Cloud
+- Git & GitHub
+- Jenkins
+- Docker
+- AWS (EC2, S3, IAM, VPC)
+- Linux
 
 ### Big Data
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+- Hadoop
+- Hive
+- HBase
+- MapReduce
+
+### Databases
+- MySQL
+- PostgreSQL
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-### Employee Manager CI/CD Project
-- Spring Boot Application
-- Jenkins CI/CD Pipeline
-- Docker Containerization
-- GitHub Integration
+### Employee Management CI/CD Pipeline
+Designed and deployed a complete CI/CD pipeline using GitHub, Jenkins, Docker, and Spring Boot to automate build and deployment processes.
 
-### Hadoop Big Data Project
-- HDFS Operations
-- Hive Queries
-- MapReduce Examples
+### Hadoop Data Processing Project
+Implemented HDFS operations, Hive queries, and MapReduce programs for processing large-scale datasets.
 
-### AWS Cloud Projects
-- EC2 Deployment
-- S3 Storage
-- IAM Configuration
-- VPC Networking
+### AWS Cloud Infrastructure
+Worked with EC2, IAM, S3, VPC, Load Balancer, and Auto Scaling concepts to build cloud-native environments.
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
-![](https://github-readme-stats.vercel.app/api?username=saiabhishek25&show_icons=true&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=saiabhishek25&show_icons=true&theme=github_dark" />
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=saiabhishek25&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=saiabhishek25&layout=compact&theme=tokyonight)
-
----
-
-## 🤝 Connect With Me
-
-📧 Email: your-email@example.com
-
-💼 LinkedIn: Add Your LinkedIn Link
-
-🌐 GitHub: https://github.com/saiabhishek25
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiabhishek25&layout=compact&theme=github_dark" />
+</p>
 
 ---
 
-⭐ Always Learning | Always Building | Always Improving
+## Professional Goals
+
+- Secure a Software Engineer / DevOps Engineer role
+- Contribute to open-source projects
+- Build scalable cloud-native applications
+- Strengthen expertise in Data Engineering and Distributed Systems
+
+---
+
+## Connect With Me
+
+- GitHub: https://github.com/saiabhishek25
+- LinkedIn: Add Your LinkedIn Profile
+- Email: Add Your Professional Email
+
+---
+
+<p align="center">
+  <i>Building solutions, automating workflows, and continuously learning.</i>
+</p>
