@@ -3,11 +3,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=B.Tech+CSE+(Data+Science);DevOps+%26+Cloud+Enthusiast;Java+%26+Backend+Developer;Big+Data+Learner" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/saiabhishek25">
-    <img src="https://img.shields.io/github/followers/saiabhishek25?label=Follow&style=social" alt="GitHub Followers">
-  </a>
-</p>
 
 ---
 
