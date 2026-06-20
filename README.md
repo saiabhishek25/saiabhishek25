@@ -92,8 +92,8 @@ I am a final-year **Computer Science Engineering (Data Science)** student with a
 ## 🤝 Let's Collaborate
 
 <p align="left">
-  📧 <b>Email:</b> <a href="mailto:your-email@example.com">your-email@example.com</a> <br/>
-  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/your-profile">linkedin.com/in/your-profile</a> <br/>
+  📧 <b>Email:</b> <a href="mailto:sai.abhishek23@lpu.in">sai.abhishek23@lpu.in</a> <br/>
+  💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/your-profile">linkedin.com/in/sai-abhishek25</a> <br/>
   🌐 <b>GitHub:</b> <a href="https://github.com/saiabhishek25">github.com/saiabhishek25</a>
 </p>
 
