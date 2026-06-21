@@ -22,7 +22,7 @@ I am a final-year **Computer Science Engineering (Data Science)** student with a
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%" valign="top">
-      <h3>💻 Languages</h3>
+      <h3>💻 Languages </h3>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/><br/><br/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
