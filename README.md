@@ -13,7 +13,7 @@ I am a final-year **Computer Science Engineering (Data Science)** student with a
 * 🎓 **Education:** Final Year B.Tech CSE (Data Science)
 * 🌱 **Currently Mastering:** Advanced System Design, Kubernetes, and Cloud-Native Architecture
 * ⚙️ **Core Focus:** Automating workflows, cloud optimization, and handling distributed big data environments.
-* 🏸 **Beyond Code:** Passionate badminton player and continuous tech explorer.
+* 🏸 **Beyond Code:** Passionate badminton player and continuous tech explorer. 
 
 ---
 
